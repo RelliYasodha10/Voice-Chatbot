@@ -37,3 +37,7 @@ Open index.html in a modern web browser (preferably Chrome or Edge)
 Click Speak to start voice input or type a message and click Send
 
 Interact with the chatbot via voice or text
+
+OUTPUT:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c633d226-633c-41ea-8d5e-1ce0f9785284" />
+
