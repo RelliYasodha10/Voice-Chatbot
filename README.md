@@ -3,8 +3,14 @@ his is an interactive web-based chatbot application that supports both voice and
 Key Features:
 
 Supports both text and voice input for flexibility.
+
 Personalized interactions by remembering the user's name.
+
 Real-time speech-to-text conversion using Web Speech API.
+
 Text-to-speech responses for a more engaging experience.
+
 Simple, responsive, and visually appealing chat interface.
+
 Basic AI logic for conversational replies with easy extensibility
+
